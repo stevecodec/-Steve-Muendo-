@@ -27,6 +27,6 @@
          . Kali Linux
         
       Learning: 
-         . Bsc Information Technology - JKUAT
+         . Django
          . Learning Laravel
          . Polishing my current stack
