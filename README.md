@@ -2,9 +2,9 @@
  
       /* About Me */
       
-      Name: Stephen Muendo 
-      Email: stephenmuendo403@gmail.com
-      Phone: +254 720891886
+      Name: Anderson James
+      Email: muendostephen2019@gmail.com
+      Phone: +12148983876
       Social Media: @STEVE 
       
       Who I am:
