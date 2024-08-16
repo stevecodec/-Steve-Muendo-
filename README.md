@@ -2,9 +2,9 @@
  
       /* About Me */
       
-      Name: Anderson James
+      Name: Steve Muendo
       Email: muendostephen2019@gmail.com
-      Phone: +12148983876
+      Phone: +254720891886 | +12148983876
       
       Who I am:
         . Passionate coder
